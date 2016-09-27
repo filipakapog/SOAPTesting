@@ -1,0 +1,1 @@
+A Basic Example of SOAP Service for users manipulation.
